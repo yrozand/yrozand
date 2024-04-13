@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <script src="https://tryhackme.com/badge/2976607"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/yanis.rozand.png" alt="TryHackMe">
 </div>
 
 ###
