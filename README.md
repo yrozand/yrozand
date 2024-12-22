@@ -1,21 +1,41 @@
-[![MasterHead](https://pbs.twimg.com/profile_banners/1615342589565337601/1713377995/1500x500)](https://yanisrozand.fr)
-<h1 align="center">Salut 👋, je m'appelle Yanis Rozand</h1>
-<h3 align="center">un passionné par l'innovation technologique, la sécurité des systèmes d'information et par le partage de mes connaissances.</h3>
+# Bonjour, je suis Yanis Rozand 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=yrozad&color=brightgreen)
 
+## À propos de moi
 
-- 🌱 Je suis en train d'apprendre : **HTML, Python**
+Je suis un technicien informatique passionné par la technologie et le développement de logiciels. Dans mon temps libre, j'aime explorer de nouvelles technologies et travailler sur des projets personnels pour améliorer mes compétences en programmation.
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://yanisorzand.fr](https://yanisrozand.fr)
+- 🔭 Je travaille actuellement en tant que technicien informatique.
+- 🌱 J'apprends actuellement Python.
+- 👯 Je suis ouvert à collaborer sur des projets intéressants et innovants.
+- 💬 N'hésitez pas à me poser des questions sur l'informatique ou le développement.
+- 📫 Vous pouvez me contacter à yanis.rozand@gmail.com.
 
+## Compétences
 
-- 📫 Comment me contacter : **yanisrozand.contact@gmail.com**
+- **Langages de programmation :** Python, HTML, CSS
+- **Frameworks et Bibliothèques :** pas de frameworks
+- **Outils et Technologies :** Git, Visual Studio Code, Internet
 
-- ⚡ Fait amusant (Fun Fact) : **Mon sens de l'humour n'est pas présant il est est partie en vacance**
-<br>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Projets
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yrozand&show_icons=true&locale=fr" alt="n-gabriele" /></p>
+Voici quelques projets sur lesquels j'ai travaillé récemment :
 
+1. **FreyaTalk** - une application open source, de chat en python
+   - [Lien vers le projet](https://github.com/yrozand/FreyaTalk)
+
+## Statistiques GitHub
+
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=yrozand&show_icons=true&theme=radical)
+
+## Langages les plus utilisés
+
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=yrozand&layout=compact&theme=radical)
+
+## Contactez-moi
+
+- **Email :** yanis.rozand@gmail.com
+- **LinkedIn :** https://fr.linkedin.com/in/yanis-rozand
+
+Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou question.
